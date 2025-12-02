@@ -1,0 +1,20 @@
+# IntelliJ
+*.iml
+.idea/
+
+# Build output
+out/
+bin/
+target/
+*.class
+
+# OS junk
+.DS_Store
+
+# Inputs copied into out
+out/production/**/inputs/
+
+# Temporary files
+*.tmp
+*.log
+
