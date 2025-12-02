@@ -22,7 +22,7 @@ public class Day02 {
         long part2 = solvePart2(lines);
         long time2 = System.nanoTime() - start;
 
-        System.out.println("=== Day 01: Invalid Product IDs ===");
+        System.out.println("=== Day 02: Invalid Product IDs ===");
         System.out.println("Part 1: " + part1 + " (took " + formatTime(time1) + ")");
         System.out.println("Part 2: " + part2 + " (took " + formatTime(time2) + ")");
     }
